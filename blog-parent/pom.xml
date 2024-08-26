@@ -25,7 +25,7 @@
         <!--mybatis-plus依赖-->
         <mybatis-plus.version>3.0.5</mybatis-plus.version>
         <velocity.version>2.0</velocity.version>
-        <swagger.version>2.7.0</swagger.version>
+        <swagger.version>2.10.0</swagger.version>
         <fastjson.version>1.2.58</fastjson.version>
     </properties>
 
